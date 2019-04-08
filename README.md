@@ -1,6 +1,9 @@
 # eKoNLPyTestProject
 Test Library for Deciphering Monetary Policy Board Minutes through Text Mining Approach: The Case of Korea
 
+# Usage
+- Sentiment analysis
+
 # License 
 eKoNLPy is Open Source Software, and is released under the license GPL v3.
 
